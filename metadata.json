@@ -1,0 +1,6 @@
+{
+  "name": "PharmaCare Pro",
+  "description": "A premium, minimalist pharmacy MVP featuring AI-powered health assistance, prescription management, and real-time order tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI-powered chatbot", "Prescription management", "Inventory tracking"]
+}
